@@ -5,9 +5,11 @@ The brain data analysis can be reproduced with the [brain_analysis.ipynb](brain_
 
 To cite this work, please use
 
+```
 @article{jansma2024fast,
   title={The Fast M{\"o}bius Transform: An algebraic approach to information decomposition},
   author={Jansma, Abel and Mediano, Pedro AM and Rosas, Fernando E},
   journal={arXiv preprint arXiv:2410.06224},
   year={2024}
 }
+```
